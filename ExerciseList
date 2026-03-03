@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "id": "ex_001",
+      "title": "Push-Up",
+      "difficulty": "Beginner",
+      "about": "A bodyweight compound exercise that strengthens the upper body and core.",
+      "benefits": [
+        "Builds chest and shoulder strength",
+        "Improves core stability",
+        "Enhances muscular endurance"
+      ],
+      "how_to_do": [
+        "Start in a plank position.",
+        "Lower chest toward the floor.",
+        "Keep body straight.",
+        "Push back up in control."
+      ],
+      "injury": [
+        "Avoid flaring elbows too wide.",
+        "Keep core engaged to protect lower back.",
+        "Stop if shoulder pain occurs."
+      ],
+      "sets": 3,
+      "reps": "10-15",
+      "rest_seconds": 45,
+      "calories_per_minute": 8,
+      "targeted_body_parts": [
+        {
+          "name": "Chest",
+          "image": "https://yourcdn.com/bodyparts/chest.png"
+        },
+        {
+          "name": "Triceps",
+          "image": "https://yourcdn.com/bodyparts/triceps.png"
+        },
+        {
+          "name": "Core",
+          "image": "https://yourcdn.com/bodyparts/core.png"
+        }
+      ],
+      "banner_image": "https://yourcdn.com/exercises/pushup.jpg"
+    },
+    {
+      "id": "ex_002",
+      "title": "Squats",
+      "difficulty": "Beginner",
+      "about": "A fundamental lower body exercise targeting legs and glutes.",
+      "benefits": [
+        "Strengthens legs",
+        "Improves balance",
+        "Boosts calorie burn"
+      ],
+      "how_to_do": [
+        "Stand with feet shoulder-width apart.",
+        "Lower hips back and down.",
+        "Keep chest upright.",
+        "Return to standing."
+      ],
+      "injury": [
+        "Do not let knees collapse inward.",
+        "Keep back neutral.",
+        "Avoid excessive forward lean."
+      ],
+      "sets": 3,
+      "reps": "12-15",
+      "rest_seconds": 60,
+      "calories_per_minute": 10,
+      "targeted_body_parts": [
+        {
+          "name": "Quadriceps",
+          "image": "https://yourcdn.com/bodyparts/quads.png"
+        },
+        {
+          "name": "Glutes",
+          "image": "https://yourcdn.com/bodyparts/glutes.png"
+        }
+      ],
+      "banner_image": "https://yourcdn.com/exercises/squats.jpg"
+    },
+    {
+      "id": "ex_003",
+      "title": "Plank",
+      "difficulty": "Beginner",
+      "about": "An isometric core exercise that builds abdominal strength.",
+      "benefits": [
+        "Improves core stability",
+        "Enhances posture",
+        "Strengthens shoulders"
+      ],
+      "how_to_do": [
+        "Place forearms on the floor.",
+        "Keep body straight.",
+        "Engage core.",
+        "Hold position."
+      ],
+      "injury": [
+        "Avoid arching lower back.",
+        "Do not drop hips.",
+        "Stop if lower back pain occurs."
+      ],
+      "sets": 3,
+      "reps": "30-45 sec hold",
+      "rest_seconds": 45,
+      "calories_per_minute": 5,
+      "targeted_body_parts": [
+        {
+          "name": "Core",
+          "image": "https://yourcdn.com/bodyparts/core.png"
+        }
+      ],
+      "banner_image": "https://yourcdn.com/exercises/plank.jpg"
+    },
+    {
+      "id": "ex_004",
+      "title": "Lunges",
+      "difficulty": "Beginner",
+      "about": "A unilateral leg exercise that improves balance and strength.",
+      "benefits": [
+        "Builds leg strength",
+        "Improves coordination",
+        "Targets glutes effectively"
+      ],
+      "how_to_do": [
+        "Step forward with one leg.",
+        "Lower until both knees are bent.",
+        "Push back to starting position."
+      ],
+      "injury": [
+        "Keep front knee aligned with toes.",
+        "Avoid leaning forward excessively."
+      ],
+      "sets": 3,
+      "reps": "12 each leg",
+      "rest_seconds": 45,
+      "calories_per_minute": 9,
+      "targeted_body_parts": [
+        {
+          "name": "Glutes",
+          "image": "https://yourcdn.com/bodyparts/glutes.png"
+        },
+        {
+          "name": "Hamstrings",
+          "image": "https://yourcdn.com/bodyparts/hamstrings.png"
+        }
+      ],
+      "banner_image": "https://yourcdn.com/exercises/lunges.jpg"
+    },
+    {
+      "id": "ex_005",
+      "title": "Burpees",
+      "difficulty": "Intermediate",
+      "about": "A high-intensity full-body exercise combining strength and cardio.",
+      "benefits": [
+        "Burns high calories",
+        "Improves endurance",
+        "Strengthens full body"
+      ],
+      "how_to_do": [
+        "Start standing.",
+        "Drop into squat and kick feet back.",
+        "Perform push-up.",
+        "Jump up explosively."
+      ],
+      "injury": [
+        "Land softly to protect knees.",
+        "Avoid rushing form.",
+        "Modify if joint pain occurs."
+      ],
+      "sets": 3,
+      "reps": "10-12",
+      "rest_seconds": 60,
+      "calories_per_minute": 12,
+      "targeted_body_parts": [
+        {
+          "name": "Full Body",
+          "image": "https://yourcdn.com/bodyparts/fullbody.png"
+        }
+      ],
+      "banner_image": "https://yourcdn.com/exercises/burpees.jpg"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "per_page": 5,
+    "total_items": 20,
+    "total_pages": 4,
+    "next_page": 2,
+    "prev_page": null
+  }
+}
