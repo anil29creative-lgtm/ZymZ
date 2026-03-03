@@ -1,0 +1,70 @@
+{
+  "pagination": {
+    "total_items": 5,
+    "total_pages": 1,
+    "current_page": 1,
+    "per_page": 10
+  },
+  "data": [
+    {
+      "id": "diet_001",
+      "title": "Vegetable Oats Bowl",
+      "goal_tag": "weight_loss",
+      "meal_type": "Breakfast",
+      "calories": 350,
+      "macros": {
+        "protein": 18,
+        "carbs": 48,
+        "fats": 8
+      }
+    },
+    {
+      "id": "diet_002",
+      "title": "Grilled Chicken with Brown Rice",
+      "goal_tag": "weight_loss",
+      "meal_type": "Lunch",
+      "calories": 450,
+      "macros": {
+        "protein": 40,
+        "carbs": 45,
+        "fats": 12
+      }
+    },
+    {
+      "id": "diet_003",
+      "title": "Paneer Stir Fry",
+      "goal_tag": "weight_loss",
+      "meal_type": "Dinner",
+      "calories": 380,
+      "macros": {
+        "protein": 28,
+        "carbs": 18,
+        "fats": 22
+      }
+    },
+    {
+      "id": "diet_004",
+      "title": "Greek Yogurt with Chia Seeds",
+      "goal_tag": "weight_loss",
+      "meal_type": "Snack",
+      "calories": 200,
+      "macros": {
+        "protein": 18,
+        "carbs": 12,
+        "fats": 8
+      }
+    },
+    {
+      "id": "diet_005",
+      "title": "Avocado Egg Toast",
+      "goal_tag": "weight_loss",
+      "meal_type": "Breakfast",
+      "calories": 320,
+      "macros": {
+        "protein": 16,
+        "carbs": 30,
+        "fats": 18
+      }
+    }
+  ]
+}
