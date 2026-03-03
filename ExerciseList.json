@@ -1,191 +1,198 @@
 {
-  "exercises": [
+  "pagination": {
+    "total_items": 5,
+    "total_pages": 1,
+    "current_page": 1,
+    "per_page": 10
+  },
+  "Exercises": [
     {
       "id": "ex_001",
       "title": "Push-Up",
       "difficulty": "Beginner",
-      "about": "A bodyweight compound exercise that strengthens the upper body and core.",
+      "gender": {
+        "male": true,
+        "female": true
+      },
+      "goal_tags": ["weight_loss", "muscle_gain", "strength", "endurance"],
+      "about": "Push-ups are a bodyweight compound exercise that strengthens the chest, shoulders, triceps, and core.",
       "benefits": [
-        "Builds chest and shoulder strength",
+        "Builds upper body strength",
         "Improves core stability",
-        "Enhances muscular endurance"
+        "Enhances muscular endurance",
+        "Supports fat loss training"
       ],
       "how_to_do": [
-        "Start in a plank position.",
-        "Lower chest toward the floor.",
-        "Keep body straight.",
-        "Push back up in control."
+        "Start in a plank position with hands slightly wider than shoulders.",
+        "Keep body straight from head to heels.",
+        "Lower chest toward the floor by bending elbows.",
+        "Push back up until arms are extended."
       ],
       "injury": [
         "Avoid flaring elbows too wide.",
-        "Keep core engaged to protect lower back.",
+        "Keep core engaged to prevent lower back strain.",
         "Stop if shoulder pain occurs."
+      ],
+      "targeted_body_parts": [
+        { "image": "https://yourcdn.com/bodyparts/chest.png" },
+        { "image": "https://yourcdn.com/bodyparts/shoulders.png" },
+        { "image": "https://yourcdn.com/bodyparts/triceps.png" },
+        { "image": "https://yourcdn.com/bodyparts/core.png" }
       ],
       "sets": 3,
       "reps": "10-15",
       "rest_seconds": 45,
       "calories_per_minute": 8,
-      "targeted_body_parts": [
-        {
-          "name": "Chest",
-          "image": "https://yourcdn.com/bodyparts/chest.png"
-        },
-        {
-          "name": "Triceps",
-          "image": "https://yourcdn.com/bodyparts/triceps.png"
-        },
-        {
-          "name": "Core",
-          "image": "https://yourcdn.com/bodyparts/core.png"
-        }
-      ],
       "banner_image": "https://yourcdn.com/exercises/pushup.jpg"
     },
     {
       "id": "ex_002",
       "title": "Squats",
       "difficulty": "Beginner",
-      "about": "A fundamental lower body exercise targeting legs and glutes.",
+      "gender": {
+        "male": true,
+        "female": true
+      },
+      "goal_tags": ["weight_loss", "muscle_gain", "strength"],
+      "about": "Squats are a foundational lower-body movement that builds leg strength and mobility.",
       "benefits": [
-        "Strengthens legs",
+        "Strengthens legs and glutes",
         "Improves balance",
-        "Boosts calorie burn"
+        "Boosts calorie burn",
+        "Enhances functional strength"
       ],
       "how_to_do": [
         "Stand with feet shoulder-width apart.",
         "Lower hips back and down.",
-        "Keep chest upright.",
-        "Return to standing."
+        "Keep chest lifted and knees aligned.",
+        "Push through heels to stand."
       ],
       "injury": [
         "Do not let knees collapse inward.",
         "Keep back neutral.",
-        "Avoid excessive forward lean."
+        "Avoid excessive forward leaning."
+      ],
+      "targeted_body_parts": [
+        { "image": "https://yourcdn.com/bodyparts/quadriceps.png" },
+        { "image": "https://yourcdn.com/bodyparts/glutes.png" },
+        { "image": "https://yourcdn.com/bodyparts/hamstrings.png" }
       ],
       "sets": 3,
       "reps": "12-15",
       "rest_seconds": 60,
       "calories_per_minute": 10,
-      "targeted_body_parts": [
-        {
-          "name": "Quadriceps",
-          "image": "https://yourcdn.com/bodyparts/quads.png"
-        },
-        {
-          "name": "Glutes",
-          "image": "https://yourcdn.com/bodyparts/glutes.png"
-        }
-      ],
       "banner_image": "https://yourcdn.com/exercises/squats.jpg"
     },
     {
       "id": "ex_003",
       "title": "Plank",
       "difficulty": "Beginner",
-      "about": "An isometric core exercise that builds abdominal strength.",
+      "gender": {
+        "male": true,
+        "female": true
+      },
+      "goal_tags": ["weight_loss", "core_strength", "endurance"],
+      "about": "Plank is an isometric core exercise that improves abdominal endurance and stability.",
       "benefits": [
-        "Improves core stability",
-        "Enhances posture",
-        "Strengthens shoulders"
+        "Strengthens core muscles",
+        "Improves posture",
+        "Enhances balance",
+        "Supports injury prevention"
       ],
       "how_to_do": [
         "Place forearms on the floor.",
         "Keep body straight.",
-        "Engage core.",
-        "Hold position."
+        "Engage core and hold position.",
+        "Maintain steady breathing."
       ],
       "injury": [
-        "Avoid arching lower back.",
-        "Do not drop hips.",
+        "Avoid arching the lower back.",
+        "Do not hold your breath.",
         "Stop if lower back pain occurs."
+      ],
+      "targeted_body_parts": [
+        { "image": "https://yourcdn.com/bodyparts/core.png" },
+        { "image": "https://yourcdn.com/bodyparts/shoulders.png" }
       ],
       "sets": 3,
       "reps": "30-45 sec hold",
       "rest_seconds": 45,
       "calories_per_minute": 5,
-      "targeted_body_parts": [
-        {
-          "name": "Core",
-          "image": "https://yourcdn.com/bodyparts/core.png"
-        }
-      ],
       "banner_image": "https://yourcdn.com/exercises/plank.jpg"
     },
     {
       "id": "ex_004",
-      "title": "Lunges",
-      "difficulty": "Beginner",
-      "about": "A unilateral leg exercise that improves balance and strength.",
-      "benefits": [
-        "Builds leg strength",
-        "Improves coordination",
-        "Targets glutes effectively"
-      ],
-      "how_to_do": [
-        "Step forward with one leg.",
-        "Lower until both knees are bent.",
-        "Push back to starting position."
-      ],
-      "injury": [
-        "Keep front knee aligned with toes.",
-        "Avoid leaning forward excessively."
-      ],
-      "sets": 3,
-      "reps": "12 each leg",
-      "rest_seconds": 45,
-      "calories_per_minute": 9,
-      "targeted_body_parts": [
-        {
-          "name": "Glutes",
-          "image": "https://yourcdn.com/bodyparts/glutes.png"
-        },
-        {
-          "name": "Hamstrings",
-          "image": "https://yourcdn.com/bodyparts/hamstrings.png"
-        }
-      ],
-      "banner_image": "https://yourcdn.com/exercises/lunges.jpg"
-    },
-    {
-      "id": "ex_005",
       "title": "Burpees",
       "difficulty": "Intermediate",
-      "about": "A high-intensity full-body exercise combining strength and cardio.",
+      "gender": {
+        "male": true,
+        "female": true
+      },
+      "goal_tags": ["weight_loss", "endurance"],
+      "about": "Burpees are a high-intensity full-body exercise combining strength and cardio.",
       "benefits": [
+        "Boosts cardiovascular fitness",
         "Burns high calories",
-        "Improves endurance",
-        "Strengthens full body"
+        "Engages full body muscles",
+        "Improves agility"
       ],
       "how_to_do": [
-        "Start standing.",
-        "Drop into squat and kick feet back.",
+        "Start standing and drop into squat.",
+        "Kick feet back into plank.",
         "Perform push-up.",
         "Jump up explosively."
       ],
       "injury": [
         "Land softly to protect knees.",
-        "Avoid rushing form.",
-        "Modify if joint pain occurs."
+        "Maintain control during push-up.",
+        "Avoid if knee pain exists."
+      ],
+      "targeted_body_parts": [
+        { "image": "https://yourcdn.com/bodyparts/fullbody.png" }
       ],
       "sets": 3,
       "reps": "10-12",
       "rest_seconds": 60,
       "calories_per_minute": 12,
-      "targeted_body_parts": [
-        {
-          "name": "Full Body",
-          "image": "https://yourcdn.com/bodyparts/fullbody.png"
-        }
-      ],
       "banner_image": "https://yourcdn.com/exercises/burpees.jpg"
+    },
+    {
+      "id": "ex_005",
+      "title": "Deadlift",
+      "difficulty": "Advanced",
+      "gender": {
+        "male": true,
+        "female": true
+      },
+      "goal_tags": ["muscle_gain", "strength"],
+      "about": "Deadlifts are a compound strength exercise targeting the posterior chain.",
+      "benefits": [
+        "Builds full-body strength",
+        "Strengthens back and glutes",
+        "Improves posture",
+        "Enhances power output"
+      ],
+      "how_to_do": [
+        "Stand with feet hip-width apart.",
+        "Grip barbell with straight back.",
+        "Lift by extending hips and knees.",
+        "Lower weight with control."
+      ],
+      "injury": [
+        "Keep spine neutral.",
+        "Avoid rounding back.",
+        "Use manageable weight."
+      ],
+      "targeted_body_parts": [
+        { "image": "https://yourcdn.com/bodyparts/back.png" },
+        { "image": "https://yourcdn.com/bodyparts/glutes.png" },
+        { "image": "https://yourcdn.com/bodyparts/hamstrings.png" }
+      ],
+      "sets": 4,
+      "reps": "6-10",
+      "rest_seconds": 120,
+      "calories_per_minute": 11,
+      "banner_image": "https://yourcdn.com/exercises/deadlift.jpg"
     }
-  ],
-  "pagination": {
-    "current_page": 1,
-    "per_page": 5,
-    "total_items": 20,
-    "total_pages": 4,
-    "next_page": 2,
-    "prev_page": null
-  }
+  ]
 }
