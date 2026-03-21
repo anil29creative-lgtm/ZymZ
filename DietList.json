@@ -1,70 +1,560 @@
 {
   "pagination": {
-    "total_items": 5,
+    "total_items": 10,
     "total_pages": 1,
     "current_page": 1,
     "per_page": 10
   },
-  "data": [
-    {
-      "id": "diet_001",
-      "title": "Vegetable Oats Bowl",
-      "goal_tag": "weight_loss",
-      "meal_type": "Breakfast",
-      "calories": 350,
-      "macros": {
-        "protein": 18,
-        "carbs": 48,
-        "fats": 8
-      }
+  "reciepes": [
+  {
+    "id": "diet_001",
+    "title": "Vegetable Oats Bowl",
+    "goal_tag": "weight_loss",
+    "meal_type": "Breakfast",
+    "difficulty": "Easy",
+    "serving_size": "1 bowl (300g)",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "calories": 350,
+    "macros": {
+      "protein": 18,
+      "carbs": 48,
+      "fats": 8,
+      "fiber": 7
     },
-    {
-      "id": "diet_002",
-      "title": "Grilled Chicken with Brown Rice",
-      "goal_tag": "weight_loss",
-      "meal_type": "Lunch",
-      "calories": 450,
-      "macros": {
-        "protein": 40,
-        "carbs": 45,
-        "fats": 12
+    "benefits": [
+      "High in fiber",
+      "Supports weight loss",
+      "Keeps you full longer",
+      "Improves digestion"
+    ],
+    "ingredients": [
+      {
+        "name": "Oats",
+        "quantity": "1/2 cup",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/hanioil6ed53/oats.jpg"
+      },
+      {
+        "name": "Carrot",
+        "quantity": "1/4 cup chopped",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/nuqbqjym58tz/carrot.jpg"
+      },
+      {
+        "name": "Green Peas",
+        "quantity": "1/4 cup",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/o8xg9fed1ovc/greenPeas.jpg"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": "1 tsp",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/wpprfnms6cwz/oliveOil.jpg"
       }
+    ],
+    "how_to_cook": [
+      "Heat olive oil in a pan.",
+      "Add vegetables and sauté for 2-3 minutes.",
+      "Add oats and water.",
+      "Cook until soft and creamy."
+    ],
+    "allergen_info": [],
+    "diet_type": ["vegetarian"],
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/39zsctji19wr/vegetableOatsBowl.jpg"
+  },
+  {
+    "id": "diet_002",
+    "title": "Grilled Chicken Quinoa Bowl",
+    "goal_tag": "muscle_gain",
+    "meal_type": "Lunch",
+    "difficulty": "Easy",
+    "serving_size": "1 bowl (350g)",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "calories": 420,
+    "macros": {
+      "protein": 35,
+      "carbs": 40,
+      "fats": 12,
+      "fiber": 6
     },
-    {
-      "id": "diet_003",
-      "title": "Paneer Stir Fry",
-      "goal_tag": "weight_loss",
-      "meal_type": "Dinner",
-      "calories": 380,
-      "macros": {
-        "protein": 28,
-        "carbs": 18,
-        "fats": 22
+    "benefits": [
+      "High in protein",
+      "Builds lean muscle",
+      "Balanced energy",
+      "Rich in nutrients"
+    ],
+    "ingredients": [
+      {
+        "name": "Chicken Breast",
+        "quantity": "100g",
+        "image": "hhttps://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/5ai6twzftx1r/chicken_breast.jpg"
+      },
+      {
+        "name": "Quinoa",
+        "quantity": "1/2 cup cooked",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/4y72rqs9d44i/quinoa.jpg"
+      },
+      {
+        "name": "Broccoli",
+        "quantity": "1/2 cup",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/o8x0g67fh2ww/broccoli.jpg"
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": "1 tsp",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/faceuoe2eg52/lemon-juice.jpg"
       }
+    ],
+    "how_to_cook": [
+      "Grill chicken with seasoning.",
+      "Cook quinoa in water.",
+      "Steam broccoli for 5 minutes.",
+      "Mix all and drizzle lemon."
+    ],
+    "allergen_info": [],
+    "diet_type": ["non-vegetarian"],
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/o52sdx6s6k8p/Grilled_Chicken_Quinoa_Bowl.jpg"
+  },
+  {
+    "id": "diet_003",
+    "title": "Berry Chia Pudding",
+    "goal_tag": "weight_loss",
+    "meal_type": "Breakfast",
+    "difficulty": "Easy",
+    "serving_size": "1 jar (250g)",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 5,
+    "calories": 280,
+    "macros": {
+      "protein": 12,
+      "carbs": 35,
+      "fats": 10,
+      "fiber": 9
     },
-    {
-      "id": "diet_004",
-      "title": "Greek Yogurt with Chia Seeds",
-      "goal_tag": "weight_loss",
-      "meal_type": "Snack",
-      "calories": 200,
-      "macros": {
-        "protein": 18,
-        "carbs": 12,
-        "fats": 8
+    "benefits": [
+      "Omega-3 rich",
+      "Promotes satiety",
+      "Antioxidant boost",
+      "No cooking needed"
+    ],
+    "ingredients": [
+      {
+        "name": "Chia Seeds",
+        "quantity": "2 tbsp",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/0bacw1l70j48/chia_seeds.jpg"
+      },
+      {
+        "name": "Almond Milk",
+        "quantity": "1 cup",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/wj3x32iof191/almond-milk.jpg"
+      },
+      {
+        "name": "Strawberries",
+        "quantity": "1/2 cup",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/9bcbmomzb97g/strawberries.jpg"
+      },
+      {
+        "name": "Honey",
+        "quantity": "1 tsp",
+        "image": "hhttps://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/7pixlm46l6bz/honey.jpg"
       }
+    ],
+    "how_to_cook": [
+      "Mix chia seeds in almond milk.",
+      "Stir in honey.",
+      "Refrigerate overnight.",
+      "Top with fresh berries."
+    ],
+    "allergen_info": [],
+    "diet_type": ["vegan"],
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/motrahwomd73/Berry_Chia_Pudding.jpg"
+  },
+  {
+    "id": "diet_004",
+    "title": "Egg White Veggie Omelette",
+    "goal_tag": "balanced",
+    "meal_type": "Breakfast",
+    "difficulty": "Medium",
+    "serving_size": "1 plate (280g)",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 7,
+    "total_time_minutes": 15,
+    "calories": 220,
+    "macros": {
+      "protein": 22,
+      "carbs": 15,
+      "fats": 6,
+      "fiber": 5
     },
-    {
-      "id": "diet_005",
-      "title": "Avocado Egg Toast",
-      "goal_tag": "weight_loss",
-      "meal_type": "Breakfast",
-      "calories": 320,
-      "macros": {
-        "protein": 16,
-        "carbs": 30,
-        "fats": 18
+    "benefits": [
+      "Low calorie",
+      "High protein",
+      "Heart healthy",
+      "Quick energy"
+    ],
+    "ingredients": [
+      {
+        "name": "Egg Whites",
+        "quantity": "4",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/bltfs58e6n1j/Egg_Whites.jpg"
+      },
+      {
+        "name": "Spinach",
+        "quantity": "1 cup",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/wku4ofgor1ld/Spinach.jpg"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1/2 chopped",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/jn7y2mis7iwg/Tomato.jpg"
+      },
+      {
+        "name": "Olive Oil Spray",
+        "quantity": "1 spray",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/wpprfnms6cwz/oliveOil.jpg"
       }
-    }
-  ]
+    ],
+    "how_to_cook": [
+      "Whisk egg whites.",
+      "Sauté spinach and tomato.",
+      "Pour eggs and cook 3 mins.",
+      "Fold and serve hot."
+    ],
+    "allergen_info": [],
+    "diet_type": ["vegetarian"],
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/mviahp4ua46l/Egg_White_Veggie_Omelette.jpg"
+  },
+  {
+    "id": "diet_005",
+    "title": "Salmon Avocado Salad",
+    "goal_tag": "muscle_gain",
+    "meal_type": "Dinner",
+    "difficulty": "Easy",
+    "serving_size": "1 plate (320g)",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 8,
+    "total_time_minutes": 18,
+    "calories": 480,
+    "macros": {
+      "protein": 32,
+      "carbs": 12,
+      "fats": 28,
+      "fiber": 8
+    },
+    "benefits": [
+      "Omega-3 boost",
+      "Healthy fats",
+      "Muscle recovery",
+      "Filling dinner"
+    ],
+    "ingredients": [
+      {
+        "name": "Salmon Fillet",
+        "quantity": "120g",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/px0cywo8wtj7/Salmon_Fillet.jpg"
+      },
+      {
+        "name": "Avocado",
+        "quantity": "1/2 sliced",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/jo6zvkqh73o5/Avocado.jpg"
+      },
+      {
+        "name": "Cucumber",
+        "quantity": "1/2 cup",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/tudhmieam56p/Cucumber.jpg"
+      },
+      {
+        "name": "Lime Juice",
+        "quantity": "1 tbsp",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/faceuoe2eg52/lemon-juice.jpg"
+      }
+    ],
+    "how_to_cook": [
+      "Pan sear salmon 4 mins each side.",
+      "Slice avocado and cucumber.",
+      "Toss with lime juice.",
+      "Place salmon on top."
+    ],
+    "allergen_info": [],
+    "diet_type": ["non-vegetarian"],
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/jqdu7xo9og1r/Salmon_Avocado_Salad.jpg"
+  },
+  {
+    "id": "diet_006",
+    "title": "Lentil Soup Bowl",
+    "goal_tag": "detox",
+    "meal_type": "Lunch",
+    "difficulty": "Easy",
+    "serving_size": "1 bowl (400g)",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "calories": 310,
+    "macros": {
+      "protein": 20,
+      "carbs": 45,
+      "fats": 5,
+      "fiber": 12
+    },
+    "benefits": [
+      "Detox friendly",
+      "Plant protein",
+      "Gut cleansing",
+      "Warm and soothing"
+    ],
+    "ingredients": [
+      {
+        "name": "Red Lentils",
+        "quantity": "1/2 cup",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/cnvkfdnaypu3/Red_Lentils.jpg"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1/4 chopped",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/fcmcz3e7dkwn/Onion.jpg"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1 chopped",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/jn7y2mis7iwg/Tomato.jpg"
+      },
+      {
+        "name": "Cumin Powder",
+        "quantity": "1/2 tsp",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/xd147lokrphs/Cumin_Powder.jpg"
+      }
+    ],
+    "how_to_cook": [
+      "Boil lentils with water.",
+      "Sauté onion and tomato.",
+      "Add cumin and spices.",
+      "Simmer 15 mins till thick."
+    ],
+    "allergen_info": [],
+    "diet_type": ["vegan"],
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/qzxvumy5e4zc/Lentil_Soup_Bowl.jpg"
+  },
+  {
+    "id": "diet_007",
+    "title": "Greek Yogurt Parfait",
+    "goal_tag": "weight_loss",
+    "meal_type": "Snack",
+    "difficulty": "Easy",
+    "serving_size": "1 glass (220g)",
+    "prep_time_minutes": 3,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 3,
+    "calories": 260,
+    "macros": {
+      "protein": 25,
+      "carbs": 22,
+      "fats": 7,
+      "fiber": 4
+    },
+    "benefits": [
+      "Probiotic rich",
+      "High protein snack",
+      "Sweet tooth fix",
+      "Quick prep"
+    ],
+    "ingredients": [
+      {
+        "name": "Greek Yogurt",
+        "quantity": "150g",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/awwxihu56y9h/Greek_Yogurt.jpg"
+      },
+      {
+        "name": "Blueberries",
+        "quantity": "1/2 cup",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/ng0bl23x0k4z/Blueberries.jpg"
+      },
+      {
+        "name": "Almonds",
+        "quantity": "10 chopped",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/pcm9gbooz1cj/Almonds.jpg"
+      },
+      {
+        "name": "Cinnamon",
+        "quantity": "Pinch",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/9m4oekcl6v9a/Cinnamon.jpg"
+      }
+    ],
+    "how_to_cook": [
+      "Layer yogurt in glass.",
+      "Add blueberries.",
+      "Sprinkle almonds and cinnamon.",
+      "Serve chilled."
+    ],
+    "allergen_info": [],
+    "diet_type": ["vegetarian"],
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/sv2ewsacmikj/Greek_Yogurt_Parfait.jpg"
+  },
+  {
+    "id": "diet_008",
+    "title": "Tofu Stir Fry Rice",
+    "goal_tag": "balanced",
+    "meal_type": "Dinner",
+    "difficulty": "Medium",
+    "serving_size": "1 plate (380g)",
+    "prep_time_minutes": 12,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 22,
+    "calories": 390,
+    "macros": {
+      "protein": 24,
+      "carbs": 50,
+      "fats": 11,
+      "fiber": 7
+    },
+    "benefits": [
+      "Plant based protein",
+      "Complete meal",
+      "Low GI",
+      "Easy digestion"
+    ],
+    "ingredients": [
+      {
+        "name": "Firm Tofu",
+        "quantity": "100g cubed",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/xd5gtlvce4ei/Firm_Tofu.jpg"
+      },
+      {
+        "name": "Brown Rice",
+        "quantity": "1/2 cup cooked",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/rnwuhls4bmmb/Brown_Rice.jpg"
+      },
+      {
+        "name": "Bell Pepper",
+        "quantity": "1/2 sliced",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/2hmnnfegzqsu/Bell_Pepper.jpg"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": "1 tsp",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/h2yjfpf2g7pk/Soy_Sauce.jpg"
+      }
+    ],
+    "how_to_cook": [
+      "Pan fry tofu cubes.",
+      "Stir fry bell pepper.",
+      "Add rice and soy sauce.",
+      "Toss everything 5 mins."
+    ],
+    "allergen_info": [],
+    "diet_type": ["vegan"],
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/wtc5skh369tg/Tofu_Stir_Fry_Rice.jpg"
+  },
+  {
+    "id": "diet_009",
+    "title": "Tuna Cucumber Wraps",
+    "goal_tag": "muscle_gain",
+    "meal_type": "Snack",
+    "difficulty": "Easy",
+    "serving_size": "2 wraps (260g)",
+    "prep_time_minutes": 7,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 7,
+    "calories": 310,
+    "macros": {
+      "protein": 28,
+      "carbs": 18,
+      "fats": 10,
+      "fiber": 3
+    },
+    "benefits": [
+      "Portable protein",
+      "No cook meal",
+      "Lean fish source",
+      "Crunchy texture"
+    ],
+    "ingredients": [
+      {
+        "name": "Canned Tuna",
+        "quantity": "80g",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/j12zmnvdutpn/Canned_Tuna.jpg"
+      },
+      {
+        "name": "Cucumber",
+        "quantity": "1 large sliced",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/tudhmieam56p/Cucumber.jpg"
+      },
+      {
+        "name": "Lettuce Leaves",
+        "quantity": "2 large",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/1ih5isvhgk0n/Lettuce_Leaves.jpg"
+      },
+      {
+        "name": "Mustard",
+        "quantity": "1 tsp",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/65dbnofd3rll/Mustard.jpg"
+      }
+    ],
+    "how_to_cook": [
+      "Drain and mix tuna with mustard.",
+      "Lay lettuce on slices.",
+      "Add tuna filling.",
+      "Roll into wraps."
+    ],
+    "allergen_info": [],
+    "diet_type": ["non-vegetarian"],
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/8nrc1vm2fxz6/Tuna_Cucumber_Wraps.jpg"
+  },
+  {
+    "id": "diet_010",
+    "title": "Banana Almond Smoothie",
+    "goal_tag": "weight_loss",
+    "meal_type": "Breakfast",
+    "difficulty": "Easy",
+    "serving_size": "1 glass (300ml)",
+    "prep_time_minutes": 4,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 4,
+    "calories": 330,
+    "macros": {
+      "protein": 15,
+      "carbs": 42,
+      "fats": 9,
+      "fiber": 6
+    },
+    "benefits": [
+      "Natural sweetness",
+      "Post workout fuel",
+      "Keeps full",
+      "Kid friendly"
+    ],
+    "ingredients": [
+      {
+        "name": "Banana",
+        "quantity": "1 medium",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/2h3i63aknezq/Banana.jpg"
+      },
+      {
+        "name": "Almond Butter",
+        "quantity": "1 tbsp",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/450ikj30v312/Almond_Butter.jpg"
+      },
+      {
+        "name": "Skim Milk",
+        "quantity": "1 cup",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/ljcpwnyezqot/Skim_Milk.jpg"
+      },
+      {
+        "name": "Flax Seeds",
+        "quantity": "1 tsp",
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/sxpk5o7qsu5u/Flax_Seeds.jpg"
+      }
+    ],
+    "how_to_cook": [
+      "Peel and break banana.",
+      "Add all to blender.",
+      "Blend until smooth.",
+      "Pour and drink immediately."
+    ],
+    "allergen_info": [],
+    "diet_type": ["vegetarian"],
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/gpe5r6gzehwd/Banana_Almond_Smoothie.jpg"
+  }
+]
 }
