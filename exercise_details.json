@@ -1,0 +1,855 @@
+[
+  {
+    "id": "ex_001",
+    "title": "Push-ups",
+    "difficulty": "Medium",
+    "goal_tags": [
+      "upper_body",
+      "core"
+    ],
+    "gender": "All",
+    "about": "Push-ups are a classic bodyweight exercise that bu... shoulders, and triceps while engaging the core for stability.",
+    "benefits": [
+      "Builds upper-body strength",
+      "Engages chest, shoulders, and triceps",
+      "Improves core stability"
+    ],
+    "how_to_do": [
+      "Start in a plank position with hands under shoulders",
+      "Lower your chest toward the ground, keeping elbows at 45degree",
+      "Push back up to the starting position"
+    ],
+    "injury": [
+      "Keep core engaged and spine neutral",
+      "Do not let hips sag or pike up",
+      "Avoid flaring elbows out too wide"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/f3qc12c1tfwi/chest.png",
+		"body_part_name": "Chest"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/zmmtii0feo3m/shoulder.png",
+		"body_part_name": "Shoulders"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/79stfqb4cr2j/triceps.png",
+		"body_part_name": "Triceps"
+      }
+    ],
+    "sets": 3,
+    "reps": 12,
+    "rest_seconds": 60,
+    "calories_per_minute": 7,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/wuwtbunbsulw/push-ups.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/9nb22u9gdfun/Push-up.gif"
+  },
+  {
+    "id": "ex_002",
+    "title": "Squats",
+    "difficulty": "Easy",
+    "goal_tags": [
+      "lower_body"
+    ],
+    "gender": "All",
+    "about": "Squats are a fundamental lower-body exercise that strengthen the legs and core. They primarily target the quadriceps, hamstrings, glutes, and calves.",
+    "benefits": [
+      "Strengthens legs and glutes",
+      "Improves core stability",
+      "Enhances joint mobility"
+    ],
+    "how_to_do": [
+      "Stand with feet hip-width apart",
+      "Hinge at hips and bend knees to lower into a squat",
+      "Keep chest up and back straight",
+      "Return to standing by driving through your heels"
+    ],
+    "injury": [
+      "Keep weight on heels and midfoot",
+      "Do not let knees cave inward",
+      "Maintain a neutral spine"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/frrl012pnr57/leg.png",
+		"body_part_name": "Legs"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/lyjuduww06au/core.png",
+		"body_part_name": "Full body"
+      }
+    ],
+    "sets": 3,
+    "reps": 15,
+    "rest_seconds": 60,
+    "calories_per_minute": 7,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/mfeellqpi8na/Squats.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/j3urgu1t34o6/Squats.gif"
+  },
+  {
+    "id": "ex_003",
+    "title": "Plank",
+    "difficulty": "Easy",
+    "goal_tags": [
+      "core"
+    ],
+    "gender": "All",
+    "about": "The plank is an isometric core exercise that builds abdominal and back strength. It requires holding a straight-body position while engaging the abdominals, glutes, and shoulders.",
+    "benefits": [
+      "Improves core stability",
+      "Strengthens back and abdominals",
+      "Enhances full-body endurance"
+    ],
+    "how_to_do": [
+      "Start in a forearm plank position (elbows under shoulders)",
+      "Keep your body in a straight line from head to heels",
+      "Hold the position while keeping abdominals and glutes tight"
+    ],
+    "injury": [
+      "Keep hips level (avoid sagging or piking)",
+      "Maintain a neutral neck (Do not look up or down)",
+      "Engage core to protect the lower back"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/lyjuduww06au/core.png",
+		"body_part_name": "Full body"
+      }
+    ],
+    "sets": 3,
+    "reps": 1,
+    "rest_seconds": 30,
+    "calories_per_minute": 4,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/ou71mvmjyssr/Plank.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/h6aqtrohffuw/Plank.gif"
+  },
+  {
+    "id": "ex_004",
+    "title": "Burpees",
+    "difficulty": "Hard",
+    "goal_tags": [
+      "full_body",
+      "cardio"
+    ],
+    "gender": "All",
+    "about": "Burpees are a high-intensity full-body exercise that combines a squat, push-up, and jump. They elevate the heart rate and work the legs, chest, arms, and core for a powerful conditioning workout.",
+    "benefits": [
+      "Improves cardiovascular fitness",
+      "Strengthens full body (legs, chest, core)",
+      "Enhances endurance and agility"
+    ],
+    "how_to_do": [
+      "Squat down and place hands on the floor",
+      "Kick feet back into a plank and do a push-up",
+      "Jump feet forward, then explode up into a jump at the top"
+    ],
+    "injury": [
+      "Land softly to reduce impact",
+      "Keep core engaged during movement",
+      "Avoid lowering hips too far behind knees"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/f3qc12c1tfwi/chest.png",
+		"body_part_name": "Chest"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/frrl012pnr57/leg.png",
+		"body_part_name": "Legs"
+      }
+    ],
+    "sets": 3,
+    "reps": 10,
+    "rest_seconds": 60,
+    "calories_per_minute": 10,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/iveogg8exmwp/Burpees.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/ecmc14d4p5ej/Burpees.gif"
+  },
+  {
+    "id": "ex_005",
+    "title": "Deadlift",
+    "difficulty": "Medium",
+    "goal_tags": [
+      "strength"
+    ],
+    "gender": "All",
+    "about": "Deadlifts are a compound weightlifting exercise that build the posterior chain. They work the hamstrings, glutes, lower back, and core, while also engaging the arms and shoulders.",
+    "benefits": [
+      "Builds posterior-chain strength",
+      "Improves core stability",
+      "Enhances functional lifting power"
+    ],
+    "how_to_do": [
+      "Stand with feet hip-width apart and weights on floor",
+      "Hinge at hips and grasp the weight with straight arms",
+      "Drive through the heels to stand up, keeping back flat"
+    ],
+    "injury": [
+      "Keep spine neutral (avoid rounding back)",
+      "Engage core and glutes for stability",
+      "Lift with control (Do not jerk the weight)"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/q5cckwyfovaq/back.png",
+		"body_part_name": "Back"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/frrl012pnr57/leg.png",
+		"body_part_name": "Legs"
+      }
+    ],
+    "sets": 3,
+    "reps": 10,
+    "rest_seconds": 60,
+    "calories_per_minute": 8,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/g6fm0i7f2tr1/Deadlift.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/0peuiwmby204/Deadlift.gif"
+  },
+  {
+    "id": "ex_006",
+    "title": "Lunges",
+    "difficulty": "Medium",
+    "goal_tags": [
+      "lower_body",
+      "strength"
+    ],
+    "gender": "All",
+    "about": "Lunges are a unilateral lower-body exercise that primarily target the quadriceps, glutes, and hamstrings, while also engaging the core for stability.",
+    "benefits": [
+      "Builds leg strength",
+      "Improves balance and stability",
+      "Strengthens core",
+      "Protects knees by strengthening hips"
+    ],
+    "how_to_do": [
+      "Step forward with one foot",
+      "Lower hips until both knees are bent at 90degree",
+      "Keep your front knee behind your toes",
+      "Push through your front heel to return to start"
+    ],
+    "injury": [
+      "Keep front knee aligned over ankle",
+      "Avoid leaning forward or letting knee go past toes",
+      "Maintain a neutral spine to protect your lower back"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/frrl012pnr57/leg.png",
+		"body_part_name": "Legs"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/p4cak672fk4y/glute.png",
+		"body_part_name": "Glutes"
+      }
+    ],
+    "sets": 3,
+    "reps": 15,
+    "rest_seconds": 60,
+    "calories_per_minute": 6,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/cf92d8web0fz/Lunges.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/h40caslfca5f/Lunges.gif"
+  },
+  {
+    "id": "ex_007",
+    "title": "Jumping Jacks",
+    "difficulty": "Easy",
+    "goal_tags": [
+      "cardio"
+    ],
+    "gender": "All",
+    "about": "Jumping jacks are a plyometric exercise that increases cardiovascular fitness and engages muscles in the legs, core, and shoulders.",
+    "benefits": [
+      "Improves cardiovascular fitness",
+      "Builds endurance",
+      "Strengthens legs and core",
+      "Aids in weight loss"
+    ],
+    "how_to_do": [
+      "Stand with feet together",
+      "Jump to spread legs and raise arms overhead",
+      "Land softly on balls of feet",
+      "Return to starting position and repeat"
+    ],
+    "injury": [
+      "Land softly with knees slightly bent",
+      "Keep knees aligned with toes",
+      "Maintain a steady rhythm"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/frrl012pnr57/leg.png",
+		"body_part_name": "Legs"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/zmmtii0feo3m/shoulder.png",
+		"body_part_name": "Shoulders"
+      }
+    ],
+    "sets": 3,
+    "reps": 20,
+    "rest_seconds": 30,
+    "calories_per_minute": 8,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/twneiq61yudn/Jumping_Jacks.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/llrl1dl32md1/Jumping-Jacks.gif"
+  },
+  {
+    "id": "ex_008",
+    "title": "Mountain Climbers",
+    "difficulty": "Medium",
+    "goal_tags": [
+      "core",
+      "cardio"
+    ],
+    "gender": "All",
+    "about": "Mountain climbers are a high-intensity, core-focused exercise performed from a plank position. They target the abdominals, shoulders, and hip flexors while also providing cardiovascular conditioning.",
+    "benefits": [
+      "Boosts cardio fitness",
+      "Strengthens core and shoulders",
+      "Improves coordination and agility"
+    ],
+    "how_to_do": [
+      "Start in a high plank position",
+      "Drive one knee toward your chest, then quickly alternate legs",
+      "Keep hips low and core engaged",
+      "Maintain a steady pace"
+    ],
+    "injury": [
+      "Keep hips low (avoid raising them high)",
+      "Engage core to protect your lower back",
+      "Land softly to avoid joint strain"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/lyjuduww06au/core.png",
+		"body_part_name": "Full body"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/zmmtii0feo3m/shoulder.png",
+		"body_part_name": "Shoulders"
+      }
+    ],
+    "sets": 3,
+    "reps": 15,
+    "rest_seconds": 30,
+    "calories_per_minute": 8,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/smfs6yxpdvpd/Mountain_Climbers.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/2cgf2s9hkuvz/Mountain-Climbers.gif"
+  },
+  {
+    "id": "ex_009",
+    "title": "High Knees",
+    "difficulty": "Medium",
+    "goal_tags": [
+      "cardio"
+    ],
+    "gender": "All",
+    "about": "High knees are a plyometric running-in-place exercise that elevates heart rate. They engage the quadriceps, hamstrings, calves, glutes, and core while providing cardiovascular and calorie-burning benefits.",
+    "benefits": [
+      "Increases cardiovascular endurance",
+      "Strengthens legs and core",
+      "Improves coordination",
+      "Burns calories"
+    ],
+    "how_to_do": [
+      "Stand tall with core engaged",
+      "Drive one knee up to hip level and switch legs rapidly",
+      "Pump arms in opposition to your legs",
+      "Maintain an upright posture"
+    ],
+    "injury": [
+      "Land lightly on the balls of your feet",
+      "Keep back straight and shoulders relaxed",
+      "Avoid leaning forward excessively"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/frrl012pnr57/leg.png",
+		"body_part_name": "Legs"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/lyjuduww06au/core.png",
+		"body_part_name": "Full body"
+      }
+    ],
+    "sets": 3,
+    "reps": 20,
+    "rest_seconds": 30,
+    "calories_per_minute": 10,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/uykt862xtkd9/High_Knees.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/2s8j4v325f50/High-Knees.gif"
+  },
+  {
+    "id": "ex_010",
+    "title": "Leg Raises",
+    "difficulty": "Medium",
+    "goal_tags": [
+      "core"
+    ],
+    "gender": "All",
+    "about": "Leg raises are a core-strengthening exercise performed lying on your back. They primarily target the lower abdominal muscles and hip flexors while also engaging the lower back.",
+    "benefits": [
+      "Strengthens lower abs and hip flexors",
+      "Improves core stability and posture",
+      "Supports lower back health",
+      "Enhances hip flexibility"
+    ],
+    "how_to_do": [
+      "Lie on your back with legs straight up or lowered",
+      "Keep your lower back pressed to the floor",
+      "Slowly lower legs toward the floor",
+      "Lift legs back to starting position"
+    ],
+    "injury": [
+      "Avoid arching your lower back",
+      "Move legs slowly with control",
+      "Do not swing or use momentum"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/lyjuduww06au/core.png",
+		"body_part_name": "Full body"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/frrl012pnr57/leg.png",
+		"body_part_name": "Legs"
+      }
+    ],
+    "sets": 3,
+    "reps": 15,
+    "rest_seconds": 60,
+    "calories_per_minute": 4,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/sx4ynmq8h3bm/Leg_Raises.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/rpkzjj9xc5sz/Leg-Raise.gif"
+  },
+  {
+    "id": "ex_011",
+    "title": "Russian Twist",
+    "difficulty": "Medium",
+    "goal_tags": [
+      "core"
+    ],
+    "gender": "All",
+    "about": "The Russian twist is a core exercise that builds strength in the abdominals and obliques while also engaging the shoulders for stability.",
+    "benefits": [
+      "Improves oblique and core strength",
+      "Enhances rotational stability",
+      "Builds shoulder stability",
+      "Improves balance"
+    ],
+    "how_to_do": [
+      "Sit on the floor with knees bent and feet lifted",
+      "Lean back slightly and hold arms together",
+      "Rotate torso to one side, then the other",
+      "Keep movements controlled"
+    ],
+    "injury": [
+      "Keep your spine straight and avoid slouching",
+      "Engage abs to control the movement",
+      "Breathe steadily"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/lyjuduww06au/core.png",
+		"body_part_name": "Full body"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/zmmtii0feo3m/shoulder.png",
+		"body_part_name": "Shoulders"
+      }
+    ],
+    "sets": 3,
+    "reps": 12,
+    "rest_seconds": 60,
+    "calories_per_minute": 4,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/ok9algf9gcv6/Russian_Twists.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/x5biunk7g2mh/Russian-Twists.gif"
+  },
+  {
+    "id": "ex_012",
+    "title": "Bicycle Crunch",
+    "difficulty": "Medium",
+    "goal_tags": [
+      "core",
+      "cardio"
+    ],
+    "gender": "All",
+    "about": "Bicycle crunches are a dynamic core exercise combining abdominal contraction with alternating leg motion. They target the rectus abdominis, transverse abdominis, obliques, and hip flexors.",
+    "benefits": [
+      "Targets multiple abdominal muscles",
+      "Improves core stability and posture",
+      "Engages hip flexors for a full core workout",
+      "Adds a cardio challenge"
+    ],
+    "how_to_do": [
+      "Lie on your back with legs lifted in tabletop position",
+      "Place hands behind your head",
+      "Lift shoulders and rotate to bring opposite elbow to knee",
+      "Alternate sides in a pedaling motion"
+    ],
+    "injury": [
+      "Keep your lower back pressed into the floor",
+      "Avoid pulling on your neck with your hands",
+      "Perform movements with control"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/lyjuduww06au/core.png",
+		"body_part_name": "Full body"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/frrl012pnr57/leg.png",
+		"body_part_name": "Legs"
+      }
+    ],
+    "sets": 3,
+    "reps": 20,
+    "rest_seconds": 60,
+    "calories_per_minute": 5,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/baxg189wnfbf/Bicycle_Crunch.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/qm4cxfm4op9r/Bicycle-Crunch.gif"
+  },
+  {
+    "id": "ex_013",
+    "title": "Tricep Dips",
+    "difficulty": "Medium",
+    "goal_tags": [
+      "strength"
+    ],
+    "gender": "All",
+    "about": "Tricep dips are a bodyweight exercise that target the triceps on the back of the arms while also engaging the chest and shoulders.",
+    "benefits": [
+      "Strengthens the triceps and upper arms",
+      "Engages shoulders and chest",
+      "Builds upper body strength",
+      "Requires no equipment (bodyweight)"
+    ],
+    "how_to_do": [
+      "Place hands on parallel bars or edge of bench behind you",
+      "Lower your body by bending elbows to 90degree",
+      "Keep your body straight and elbows close to the sides",
+      "Press back up to the starting position"
+    ],
+    "injury": [
+      "Avoid dipping too low (stop when elbows at or above shoulder level)",
+      "Keep shoulders down and back",
+      "Don\u2019t lock out elbows too forcefully"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/79stfqb4cr2j/triceps.png",
+		"body_part_name": "Triceps"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/zmmtii0feo3m/shoulder.png",
+		"body_part_name": "Shoulders"
+      }
+    ],
+    "sets": 3,
+    "reps": 10,
+    "rest_seconds": 60,
+    "calories_per_minute": 6,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/za28u6e9cosk/Tricep_Dips.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/56tr4e1w7xnc/Tricep-Dips.gif"
+  },
+  {
+    "id": "ex_014",
+    "title": "Bicep Curls",
+    "difficulty": "Easy",
+    "goal_tags": [
+      "strength"
+    ],
+    "gender": "All",
+    "about": "Bicep curls are an upper-arm exercise that isolate the biceps muscles. They build strength in the front of the arms and forearms.",
+    "benefits": [
+      "Increases biceps and forearm strength",
+      "Improves arm muscle definition",
+      "Teaches proper arm muscle use"
+    ],
+    "how_to_do": [
+      "Stand with dumbbells at your sides",
+      "Curl the weights by bending elbows, keeping them close to your torso",
+      "Raise weights until forearms are vertical",
+      "Lower with control"
+    ],
+    "injury": [
+      "Keep your back straight and core tight",
+      "Avoid swinging the weights using momentum",
+      "Keep elbows stationary and close to your body"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/3q0pei5qcyov/biceps.png",
+		"body_part_name": "Biceps"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/exhfn2pypylz/arm.png",
+		"body_part_name": "Arms"
+      }
+    ],
+    "sets": 3,
+    "reps": 10,
+    "rest_seconds": 60,
+    "calories_per_minute": 6,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/h92aypqungwh/Bicep_Curls.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/eoogeh6qj1qu/Bicep-Curls.gif"
+  },
+  {
+    "id": "ex_015",
+    "title": "Shoulder Press",
+    "difficulty": "Medium",
+    "goal_tags": [
+      "strength"
+    ],
+    "gender": "All",
+    "about": "The shoulder press is a compound upper-body exercise that primarily targets the deltoid muscles in the shoulders. It also engages the triceps, upper chest, and core for stability.",
+    "benefits": [
+      "Strengthens shoulders and arms",
+      "Engages chest and upper back",
+      "Builds core stability",
+      "Improves overhead pressing power"
+    ],
+    "how_to_do": [
+      "Stand or sit with weights at shoulder height",
+      "Press the weights overhead until arms are fully extended",
+      "Lower the weights back down to shoulders with control"
+    ],
+    "injury": [
+      "Keep back neutral and core engaged",
+      "Avoid shrugging shoulders or flaring elbows",
+      "Perform the press in a controlled manner"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/zmmtii0feo3m/shoulder.png",
+		"body_part_name": "Shoulders"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/79stfqb4cr2j/triceps.png",
+		"body_part_name": "Triceps"
+      }
+    ],
+    "sets": 3,
+    "reps": 10,
+    "rest_seconds": 60,
+    "calories_per_minute": 6,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/uxvq2yb4khim/Shoulder_Press.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/0lwhryb0odju/Shoulder-Press.gif"
+  },
+  {
+    "id": "ex_016",
+    "title": "Bench Press",
+    "difficulty": "Medium",
+    "goal_tags": [
+      "strength"
+    ],
+    "gender": "All",
+    "about": "The bench press is a compound chest exercise performed lying on a bench. It primarily targets the pectoral muscles, with secondary emphasis on the shoulders and triceps.",
+    "benefits": [
+      "Builds chest, shoulder, and triceps strength",
+      "Increases upper-body muscle mass",
+      "Engages core for stabilization",
+      "Improves pushing power"
+    ],
+    "how_to_do": [
+      "Lie on a bench with feet on the floor",
+      "Grip the barbell or dumbbells with hands slightly wider than shoulder-width",
+      "Lower the weight to your mid-chest",
+      "Push the weight back up until arms are fully extended"
+    ],
+    "injury": [
+      "Keep feet flat on the floor and lower back slightly arched",
+      "Do not bounce the weight off your chest",
+      "Avoid locking elbows aggressively"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/f3qc12c1tfwi/chest.png",
+		"body_part_name": "Chest"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/zmmtii0feo3m/shoulder.png",
+		"body_part_name": "Shoulders"
+      }
+    ],
+    "sets": 3,
+    "reps": 10,
+    "rest_seconds": 60,
+    "calories_per_minute": 6,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/hphdnt64wm7n/Bench_Press.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/8vqwi8wo68go/Bench-Press.gif"
+  },
+  {
+    "id": "ex_017",
+    "title": "Pull-Ups",
+    "difficulty": "Hard",
+    "goal_tags": [
+      "strength"
+    ],
+    "gender": "All",
+    "about": "Pull-ups are a bodyweight exercise that primarily strengthen the upper back (latissimus dorsi) while also working the arms (biceps and forearms) and shoulders.",
+    "benefits": [
+      "Builds upper-back and lat strength",
+      "Strengthens arms and shoulders",
+      "Improves grip strength",
+      "Enhances overall upper-body power"
+    ],
+    "how_to_do": [
+      "Grab an overhead bar with a shoulder-width grip, palms facing away",
+      "Hang with arms fully extended",
+      "Pull your body upward until your chin clears the bar",
+      "Lower yourself back down with control"
+    ],
+    "injury": [
+      "Avoid swinging or kipping excessively",
+      "Lower down slowly to protect elbows",
+      "Engage core and shoulders for stability"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/q5cckwyfovaq/back.png",
+		"body_part_name": "Back"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/3q0pei5qcyov/biceps.png",
+		"body_part_name": "Biceps"
+      }
+    ],
+    "sets": 3,
+    "reps": 8,
+    "rest_seconds": 90,
+    "calories_per_minute": 8,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/5e7l86g2oirc/Pull-Ups.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/264skm11i6t9/Pull-Ups.gif"
+  },
+  {
+    "id": "ex_018",
+    "title": "Lat Pulldown",
+    "difficulty": "Medium",
+    "goal_tags": [
+      "strength"
+    ],
+    "gender": "All",
+    "about": "The cable lat pulldown is a compound back exercise that primarily targets the latissimus dorsi (lats) while also engaging the biceps, shoulders, and other upper-back muscles.",
+    "benefits": [
+      "Develops strong latissimus (back) muscles",
+      "Strengthens biceps and upper back",
+      "Improves posture",
+      "Requires controlled movement for safety"
+    ],
+    "how_to_do": [
+      "Sit and grasp the overhead bar with a wide grip",
+      "Lean back slightly and keep chest up",
+      "Pull the bar down towards your upper chest, focusing on squeezing your lats",
+      "Slowly return the bar to the starting position"
+    ],
+    "injury": [
+      "Avoid leaning back too far",
+      "Keep your spine neutral (no arch)",
+      "Use controlled motion (no jerking)"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/q5cckwyfovaq/back.png",
+		"body_part_name": "Back"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/3q0pei5qcyov/biceps.png",
+		"body_part_name": "Biceps"
+      }
+    ],
+    "sets": 3,
+    "reps": 10,
+    "rest_seconds": 60,
+    "calories_per_minute": 6,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/jtjahwx0b3o9/Lat_Pulldown.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/db6lz4ic9m01/Lat-Pulldown.gif"
+  },
+  {
+    "id": "ex_019",
+    "title": "Glute Bridge",
+    "difficulty": "Easy",
+    "goal_tags": [
+      "strength"
+    ],
+    "gender": "All",
+    "about": "Glute bridges are a hip-extension exercise that strengthen the glutes and hamstrings while also engaging the core.",
+    "benefits": [
+      "Strengthens glutes and hamstrings",
+      "Engages core for stability",
+      "Supports lower back health",
+      "Improves hip mobility"
+    ],
+    "how_to_do": [
+      "Lie on your back with knees bent and feet flat on floor",
+      "Push through your heels to lift your hips off the ground",
+      "Squeeze your glutes at the top of the movement",
+      "Lower hips back down with control"
+    ],
+    "injury": [
+      "Keep your core engaged to avoid over-arching lower back",
+      "Do not lift hips higher than necessary",
+      "Move slowly to maintain control"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/p4cak672fk4y/glute.png",
+		"body_part_name": "Glutes"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/frrl012pnr57/leg.png",
+		"body_part_name": "Legs"
+      }
+    ],
+    "sets": 3,
+    "reps": 15,
+    "rest_seconds": 60,
+    "calories_per_minute": 5,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/mj4qi3mkrzx5/Glute_Bridge.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/9nb22u9gdfun/Push-up.gif"
+  },
+  {
+    "id": "ex_020",
+    "title": "Cycling (Stationary Bike)",
+    "difficulty": "Easy",
+    "goal_tags": [
+      "cardio"
+    ],
+    "gender": "All",
+    "about": "Cycling on a stationary bike is a low-impact cardiovascular exercise that improves heart and lung health while strengthening the leg muscles (quadriceps, hamstrings, calves, glutes).",
+    "benefits": [
+      "Improves cardiovascular endurance",
+      "Burns calories and supports weight loss",
+      "Strengthens leg muscles",
+      "Low impact on joints"
+    ],
+    "how_to_do": [
+      "Adjust the seat height and strap your feet to the pedals",
+      "Pedal at a steady pace, adjusting resistance as needed",
+      "Keep an upright posture with core engaged",
+      "Vary intensity or intervals for a challenge"
+    ],
+    "injury": [
+      "Adjust seat to avoid knee strain (knees slightly bent)",
+      "Maintain a neutral spine posture",
+      "Do not pedal with toes pointed downward (use flat foot)"
+    ],
+    "targeted_body_parts": [
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/frrl012pnr57/leg.png",
+		"body_part_name": "legs"
+      },
+      {
+        "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/lyjuduww06au/core.png",
+		"body_part_name": "Full body"
+      }
+    ],
+    "sets": 1,
+    "reps": 30,
+    "rest_seconds": 120,
+    "calories_per_minute": 8,
+    "banner_image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/cyus30u6hie9/cycling.jpg",	
+    "banner_anim": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/gym-z-s9ee60/assets/j0x4m81dzj26/cycling.gif"
+  },
+]
